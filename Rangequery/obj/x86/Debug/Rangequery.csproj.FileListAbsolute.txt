@@ -1,0 +1,4 @@
+c:\users\mrigendra\documents\visual studio 2010\projects\Rangequery\Rangequery\bin\Debug\Rangequery.exe
+c:\users\mrigendra\documents\visual studio 2010\projects\Rangequery\Rangequery\bin\Debug\Rangequery.pdb
+c:\users\mrigendra\documents\visual studio 2010\projects\Rangequery\Rangequery\obj\x86\Debug\Rangequery.exe
+c:\users\mrigendra\documents\visual studio 2010\projects\Rangequery\Rangequery\obj\x86\Debug\Rangequery.pdb
